@@ -55,4 +55,4 @@ Columns information:
 2. Gender - categorical variable, missing values: 12/1013, Male or Female, original variable name: What is your gender?,
 3. The "Big One" experiencing possible - categorical variable, missing values: 0/1013, original variable name: Do you think the "Big One" will occur in your lifetime?, Yes or No.
 
-Frequency tables and bar charts are available in Command Files/data_appendix.ipynb file.
+Data description, frequency tables and bar charts are available in Command Files/data_appendix.ipynb file.
