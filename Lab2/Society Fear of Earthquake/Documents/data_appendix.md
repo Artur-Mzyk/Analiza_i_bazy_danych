@@ -1,5 +1,8 @@
 All files from Analysis Data folder are described here.
 
+## earthquake_data.csv
+Original data file described in Original Data/Metadata/metadata_guide.md.
+
 ##  earthquake_data_modified_column_names.csv
 This file contains all information extracted from original data. The columns' names have been changed so they are no longer questions.\
 Columns have been sorted so that the people personal data is stored on the left side. Records have been sorted due to the age.\
