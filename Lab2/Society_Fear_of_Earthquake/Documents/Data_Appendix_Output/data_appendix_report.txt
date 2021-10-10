@@ -1,55 +1,55 @@
-1. Age
+1. Earthquakes fear
 Original name: In general, how worried are you about earthquakes?, variable type: categorical, missing values: 0:1013, variables' frequency:
 Not at all worried, frequency: 351
 Not so worried, frequency: 320
 Somewhat worried, frequency: 212
 Very worried, frequency: 48
 Extremely worried, frequency: 47
-2. Gender
+2. The "Big One" fear
 Original name: How worried are you about the Big One, a massive, catastrophic earthquake?, variable type: categorical, missing values: 0:1013, variables' frequency:
 Not at all worried, frequency: 329
 Not so worried, frequency: 303
 Somewhat worried, frequency: 214
 Very worried, frequency: 71
 Extremely worried, frequency: 61
-3. Household income
+3. The "Big One" experiencing possible
 Original name: Do you think the "Big One" will occur in your lifetime?, variable type: categorical, missing values: 0:1013, variables' frequency:
 No, frequency: 560
 Yes, frequency: 418
-4. US Region
+4. Earthquake experienced
 Original name: Have you ever experienced an earthquake?, variable type: categorical, missing values: 7:1013, variables' frequency:
 Yes, one or more minor ones, frequency: 471
 No, frequency: 351
 Yes, one or more major ones, frequency: 156
-5. Earthquakes fear
+5. Earthquake precautions taken
 Original name: Have you or anyone in your household taken any precautions for an earthquake (packed an earthquake survival kit, prepared an evacuation plan, etc.)?, variable type: categorical, missing values: 7:1013, variables' frequency:
 No, frequency: 766
 Yes, frequency: 212
-6. The "Big One" fear
+6. San Andreas Fault line familiarity
 Original name: How familiar are you with the San Andreas Fault line?, variable type: categorical, missing values: 12:1013, variables' frequency:
 Somewhat familiar, frequency: 392
 Very familiar, frequency: 247
 Extremely familiar, frequency: 132
 Not so familiar, frequency: 106
 Not at all familiar, frequency: 101
-7. The "Big One" experiencing possible
+7. Yellowstone Supervolcano familiarity
 Original name: How familiar are you with the Yellowstone Supervolcano?, variable type: categorical, missing values: 12:1013, variables' frequency:
 Somewhat familiar, frequency: 273
 Not at all familiar, frequency: 262
 Not so familiar, frequency: 211
 Very familiar, frequency: 139
 Extremely familiar, frequency: 93
-8. Earthquake experienced
+8. Age
 Original name: Age, variable type: categorical, missing values: 12:1013, variables' frequency:
 45 - 59, frequency: 270
 60, frequency: 251
 30 - 44, frequency: 249
 18 - 29, frequency: 208
-9. Earthquake precautions taken
+9. Gender
 Original name: What is your gender?, variable type: categorical, missing values: 12:1013, variables' frequency:
 Female, frequency: 513
 Male, frequency: 465
-10. San Andreas Fault line familiarity
+10. Household income
 Original name: How much total combined money did all members of your HOUSEHOLD earn last year?, variable type: categorical, missing values: 12:1013, variables' frequency:
 $50,000 to $74,999, frequency: 174
 $25,000 to $49,999, frequency: 158
@@ -62,7 +62,7 @@ $200,000 and up, frequency: 50
 $125,000 to $149,999, frequency: 44
 $150,000 to $174,999, frequency: 33
 $175,000 to $199,999, frequency: 12
-11. Yellowstone Supervolcano familiarity
+11. US Region
 Original name: US Region, variable type: categorical, missing values: 35:1013, variables' frequency:
 Pacific, frequency: 206
 South Atlantic, frequency: 155
@@ -76,22 +76,15 @@ East South Central, frequency: 40
 
 1. Age
 Original name: In general, how worried are you about earthquakes?, variable type: categorical, missing values: 0:1013, variables' frequency:
-Not at all worried, frequency: 351
-Not so worried, frequency: 320
-Somewhat worried, frequency: 212
-Very worried, frequency: 48
-Extremely worried, frequency: 47
+45 - 59, frequency: 270
+60, frequency: 251
+30 - 44, frequency: 249
+18 - 29, frequency: 208
 2. Gender
 Original name: How worried are you about the Big One, a massive, catastrophic earthquake?, variable type: categorical, missing values: 0:1013, variables' frequency:
-Not at all worried, frequency: 329
-Not so worried, frequency: 303
-Somewhat worried, frequency: 214
-Very worried, frequency: 71
-Extremely worried, frequency: 61
+Female, frequency: 513
+Male, frequency: 465
 3. The "Big One" experiencing possible
 Original name: Do you think the "Big One" will occur in your lifetime?, variable type: categorical, missing values: 0:1013, variables' frequency:
-Somewhat familiar, frequency: 273
-Not at all familiar, frequency: 262
-Not so familiar, frequency: 211
-Very familiar, frequency: 139
-Extremely familiar, frequency: 93
+No, frequency: 560
+Yes, frequency: 418
