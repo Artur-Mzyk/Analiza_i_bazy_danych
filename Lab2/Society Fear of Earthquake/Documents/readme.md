@@ -1,7 +1,7 @@
-Folder structure:
+# Folder structure:
 ## Original Data
 * earthquake_data.csv - original data\
-###Metadata
+### Metadata
 * metadata_guide.md - metadata guide
 ## Analysis Data
 * earthquake_data.csv - original data
@@ -14,7 +14,7 @@ Folder structure:
 * data_processing.ipynb - data processing main file written in Python, fully commented
 * data_appendix.ipynb - data appendix file written in Python, fully commented
 
-Replicating the study:
+# Replicating the study:
 1. Data analysis may be performed on any software which allows to install Python. To run the command files there need to be installed 3 packages:
 * pandas,
 * numpy,
