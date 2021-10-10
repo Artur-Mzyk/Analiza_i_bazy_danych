@@ -1,7 +1,6 @@
 # Folder structure:
 ## Original Data
-* #### earthquake_data.csv
-- original data\
+* #### earthquake_data.csv #### - original data\
 ### Metadata
 * #### metadata_guide.md - metadata guide
 ## Analysis Data
