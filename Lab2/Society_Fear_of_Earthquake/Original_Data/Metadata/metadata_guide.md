@@ -1,7 +1,7 @@
 # Originat data contains one file named earthquake_data.csv stored in Original Data folder.
 
 ## Bibliographic citation
-Hickey W. (2015). The Rock Isn’t Alone: Lots Of People Are Worried About ‘The Big One’: *FiveThirtyEight*\
+Hickey W. (2015). The Rock Isn’t Alone: Lots Of People Are Worried About ‘The Big One’: *FiveThirtyEight*
 
 ## URL
 https://github.com/fivethirtyeight/data/tree/master/san-andreas
