@@ -26,6 +26,7 @@
 * Original_Data/earthquake_data.csv
 * Command_Files/data_processing.ipynb
 * Command_Files/data_appendix.ipynb files.
+
 There also need to be created 2 empty folders:
 * Analysis_Data
 * Documents/Data_Appendix_Output
