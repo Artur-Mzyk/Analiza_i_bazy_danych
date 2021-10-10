@@ -62,7 +62,7 @@ Variable type: categorical, missing values: 12/1013, possible answers:
 * Male
 * Female
 ### 10. How much total combined money did all members of your HOUSEHOLD earn last year?
-Variable type: categorical, number of dollars interval, missing values: 12/1013, details: possibility of not answering, possible answers:
+Variable type: categorical, number of dollars interval, missing values: 12/1013, possible answers:
 * $0 to $9,999
 * $10,000 to $24,999
 * $25,000 to $49,999
