@@ -21,10 +21,11 @@
 1. Data analysis may be performed on any software which allows to install Python. To run the command files there need to be installed 2 packages:
 * pandas
 * matplotlib.
-2. Onto the replicator's computer there should be copied:
+2. Onto the replicator's computer there should be copied the files listed below:
 * Original_Data/earthquake_data.csv
 * Command_Files/data_processing.ipynb
-* Command_Files/data_appendix.ipynb files.\
+* Command_Files/data_appendix.ipynb.
+
 There also need to be created 2 empty folders:
 * Analysis_Data
 * Analysis_Data/Data_Appendix_Output.
