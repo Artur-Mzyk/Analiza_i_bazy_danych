@@ -4,7 +4,6 @@
 ### Metadata
 * metadata_guide.md - metadata guide
 ## Analysis_Data
-* earthquake_data.csv - original data
 * earthquake_data_cleaned.csv - valid data with modified column names
 * earthquake_data_big_one.csv - data containing the age, the gender and the answer to the question "Do you think the "Big One" will occur in your lifetime?"
 ## Documents
