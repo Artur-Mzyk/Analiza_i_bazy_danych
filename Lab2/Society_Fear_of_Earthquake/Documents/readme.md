@@ -6,13 +6,13 @@
 ## Analysis_Data
 * earthquake_data_cleaned.csv - valid data with modified column names
 * earthquake_data_big_one.csv - data containing the age, the gender and the answer to the question "Do you think the "Big One" will occur in your lifetime?"
+### Data_Appendix_Output
+* data_appendix_report.txt - file generated with data_appendix.ipynb containing variable's codebook
+* earthquake_data_cleaned_freq.png - variables' frequency bar chart for earthquake_data_cleaned.csv
+* earthquake_data_big_one_freq.png - variables' frequency bar chart for earthquake_data_big_one.csv
 ## Documents
 * data_appendix.pdf - data appendix documentation
 * readme.md - readme file
-### Data_Appendix_Output
-* data_appendix_report.txt - file generated with data_appendix.ipynb containing variable information
-* earthquake_data_cleaned_freq.png - variable's frequency bar chart for earthquake_data_cleaned.csv
-* earthquake_data_big_one_freq.png - variable's frequency bar chart for earthquake_data_big_one.csv
 ## Command_Files
 * data_processing.ipynb - data processing main file written in Python, fully commented
 * data_appendix.ipynb - data appendix file written in Python, fully commented
@@ -27,7 +27,7 @@
 * Command_Files/data_appendix.ipynb files.\
 There also need to be created 2 empty folders:
 * Analysis_Data
-* Documents/Data_Appendix_Output
+* Analysis_Data/Data_Appendix_Output.
 4. Then one only needs to run the Jupyter notebook code.
 5. Command_Files folder should be set as the working directory while running the Jupyter notebook code.
 6. data_processing.ipynb file has to be run before data_appendix.ipynb file.
