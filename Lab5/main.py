@@ -40,8 +40,6 @@ def film_in_category(category:Union[int,str])->pd.DataFrame:
     else:
         return None
         
-    
-    
     sql = f'''SELECT
                   film.title title, language.name languge, category.name category
               FROM
