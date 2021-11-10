@@ -1,0 +1,14 @@
+Name: Dni od zakupu
+Missing values: 0:466
+
+Name: Marka
+Missing values: 0:466
+
+Name: Wiek
+Missing values: 43:466
+
+Name: P³eæ
+Missing values: 222:466
+
+Name: Ocena
+Missing values: 0:466
